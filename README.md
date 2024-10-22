@@ -8,16 +8,38 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&random=false&width=480&lines=Building+Digital+Solutions+with+Passion;Mobile+and+Web+Development+Expert;Turning+Ideas+into+Reality;Clean+Code+|+Creative+Solutions" alt="Typing SVG" />
 </p>
 
-<!-- Coding GIF -->
-<div align="center">
-  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-</div>
+
 
 <!-- Profile Views and Badges -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=amjad0202&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/amjad0202?label=Followers&style=social" alt="followers" />
 </p>
+
+<!-- About Me Section -->
+### 🚀 About Me
+```javascript
+const amjad = {
+    code: ["JavaScript", "Python", "Java", "PHP", "C"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "React Native"],
+            css: ["Bootstrap", "Tailwind CSS"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express"],
+            php: ["Laravel"],
+            python: ["Django"]
+        },
+        databases: ["MongoDB", "MySQL"],
+        design: ["Photoshop", "Illustrator"]
+    },
+    currentFocus: "React Native Development",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+
 
 <!-- About Me -->
 ### 👨‍💻 About Me
