@@ -144,10 +144,10 @@ const amjad = {
 <!-- Connect Section -->
 <h2>🤝 Let's Connect</h2>
 <p align="center">
-  <a href="[https://linkedin.com/in/mohamed amjad](https://www.linkedin.com/in/mohamedamjad?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamedamjad?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="[https://fb.com/amjadali](https://www.facebook.com/profile.php?id=100012833539463)" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100012833539463" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
   <a href="https://instagram.com/whynot_amjad" target="_blank">
