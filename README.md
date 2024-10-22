@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Amjad</h1>
+[![An image of @amjad0202's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amjad0202)](https://holopin.io/@amjad0202)
 <h3 align="center">A passionate Full stack developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhweDRmemZwdHpxNXQ3dWRxNm45NTQ4aWRvZnRscjViNmF2Nng1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
