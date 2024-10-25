@@ -163,6 +163,10 @@ const amjad = {
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+<!-- Badges -->
+
+[![An image of @amjad0202's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amjad0202)](https://holopin.io/@amjad0202)
+
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%" />
